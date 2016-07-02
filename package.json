@@ -1,7 +1,7 @@
 {
   "name": "fluxgear-react",
   "version": "0.1.0",
-  "description": "Bind React components to FluxGear engine",
+  "description": "[FluxGear] Bind React components to FluxGear engine",
   "main": "./lib/index.js",
   "scripts": {
     "build": "babel -s -d lib src",
